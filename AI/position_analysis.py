@@ -1,7 +1,7 @@
 import torch
 import chess
 import chessboard
-from NNUE import
+from NNUE import model as nnue_model
 
 
 def nnue_evaluate(board_representation):
